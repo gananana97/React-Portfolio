@@ -1,0 +1,25 @@
+.contact-info {
+  margin-bottom: 2rem;
+}
+
+.contact-info p {
+  margin: 0.5rem 0;
+}
+
+form label {
+  display: block;
+  margin-bottom: 1rem;
+}
+
+span {
+  color: red;
+}
+
+button {
+  margin-top: 1rem;
+}
+
+body {
+  color: rgb(228, 215, 240);
+  background-color: rgb(131, 6, 247);
+}
